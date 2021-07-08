@@ -1,0 +1,11 @@
+#: wall
+p: player
+b: block
+*: player on top of goal
+x: goal
+s: switch(turns off the door)
+w: warp to W
+D: door
+
++: player on top of warp w
+O: block on top of warp("W")
