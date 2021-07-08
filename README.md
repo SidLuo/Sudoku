@@ -1,4 +1,4 @@
-Aims:
+An interactive Sudoku game that aims to:
 
     Gain experience working in a small team-based environment
 
